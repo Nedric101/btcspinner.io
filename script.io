@@ -1,3 +1,6 @@
+//Rotate Fidgey Spinner
+//javascript
+
 function mouseEvent(type, sx, sy, cx, cy) {
   var evt;
   var e = {
